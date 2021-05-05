@@ -1,0 +1,5 @@
+﻿  Pig Latin Convertor EC.cpp
+C:\Users\evanc\source\repos\Pig Latin Convertor EC\Pig Latin Convertor EC.cpp(16,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\evanc\source\repos\Pig Latin Convertor EC\Pig Latin Convertor EC.cpp(47,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\evanc\source\repos\Pig Latin Convertor EC\Pig Latin Convertor EC.cpp(57,6): warning C4101: 'i': unreferenced local variable
+  Pig Latin Convertor EC.vcxproj -> C:\Users\evanc\source\repos\Pig Latin Convertor EC\Debug\Pig Latin Convertor EC.exe

@@ -1,0 +1,6 @@
+﻿  Better Grade Calculator EC.cpp
+Better Grade Calculator EC.obj : error LNK2001: unresolved external symbol "double * percent" (?percent@@3PANA)
+Better Grade Calculator EC.obj : error LNK2001: unresolved external symbol "double * assignmentspoints" (?assignmentspoints@@3PANA)
+Better Grade Calculator EC.obj : error LNK2001: unresolved external symbol "double * assignmenttpoints" (?assignmenttpoints@@3PANA)
+Better Grade Calculator EC.obj : error LNK2001: unresolved external symbol "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > * grade" (?grade@@3PAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A)
+C:\Users\evanc\source\repos\Better Grade Calculator EC\Debug\Better Grade Calculator EC.exe : fatal error LNK1120: 4 unresolved externals

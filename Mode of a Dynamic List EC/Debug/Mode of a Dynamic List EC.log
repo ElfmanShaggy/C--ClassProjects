@@ -1,0 +1,6 @@
+﻿  Mode of a Dynamic List EC.cpp
+C:\Users\evanc\source\repos\Mode of a Dynamic List EC\Mode of a Dynamic List EC.cpp(35,1): error C2601: 'selectionSort': local function definitions are illegal
+C:\Users\evanc\source\repos\Mode of a Dynamic List EC\Mode of a Dynamic List EC.cpp(15): message : this line contains a '{' which has not yet been matched
+C:\Users\evanc\source\repos\Mode of a Dynamic List EC\Mode of a Dynamic List EC.cpp(52,1): error C2601: 'swap': local function definitions are illegal
+C:\Users\evanc\source\repos\Mode of a Dynamic List EC\Mode of a Dynamic List EC.cpp(15): message : this line contains a '{' which has not yet been matched
+C:\Users\evanc\source\repos\Mode of a Dynamic List EC\Mode of a Dynamic List EC.cpp(15): fatal error C1075: '{': no matching token found
